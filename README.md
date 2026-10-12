@@ -44,7 +44,7 @@ Managing an ATM network efficiently requires tracking cash flow, customer behavi
 This page focuses on spatial distribution, hourly traffic patterns, and state-level performance[cite: 3].
 
 !### Page 1: ATM Operational & Geographic Analysis
-[![Page 1 Overview][(screenshots/Screenshot%202026-10-12%20231632.png)](https://github.com/temitopeolakanmi420-glitch/WISABI-ATM-ANALYSES/blob/main/Screenshot%202026-10-12%20231530.png)
+[(screenshots/Screenshot%202026-10-12%20231632.png)](https://github.com/temitopeolakanmi420-glitch/WISABI-ATM-ANALYSES/blob/main/Screenshot%202026-10-12%20231530.png)
 
 ](https://github.com/temitopeolakanmi420-glitch/WISABI-ATM-ANALYSES/blob/main/Screenshot%202026-10-12%20231632.png)
 * **Hourly Trends & Location Performance**: Tracks how transaction counts fluctuate between 6:00 AM and 9:00 PM across different regions[cite: 3].
@@ -58,7 +58,7 @@ This page focuses on spatial distribution, hourly traffic patterns, and state-le
 This page explores customer segments, age brackets, and transaction behaviors[cite: 4].
 
 ### Page 2: Customer Demographics & Behavior Analysis
-[![Page 2 Overview](screenshots/Screenshot%202026-10-12%20231530.png)](YOUR_PUBLISH_TO_WEB_URL_HERE)
+(screenshots/Screenshot%202026-10-12%20231530.png)[]((https://github.com/temitopeolakanmi420-glitch/WISABI-ATM-ANALYSES/blob/main/Screenshot%202026-10-12%20231530.png)
 
 
 * **Transaction Type Share**: Highlights that **Withdrawals (55.5% / 1.19M)** and **Transfers (22.2% / 476K)** make up the vast majority of activities, alongside Deposits and Balance Inquiries[cite: 4].
