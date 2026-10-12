@@ -44,9 +44,9 @@ Managing an ATM network efficiently requires tracking cash flow, customer behavi
 This page focuses on spatial distribution, hourly traffic patterns, and state-level performance[cite: 3].
 
 !### Page 1: ATM Operational & Geographic Analysis
-[![Page 1 Overview](screenshots/Screenshot%202026-10-12%20231632.png)](https://github.com/temitopeolakanmi420-glitch/WISABI-ATM-ANALYSES/blob/main/Screenshot%202026-10-12%20231530.png)
+[![Page 1 Overview][(screenshots/Screenshot%202026-10-12%20231632.png)](https://github.com/temitopeolakanmi420-glitch/WISABI-ATM-ANALYSES/blob/main/Screenshot%202026-10-12%20231530.png)
 
-
+](https://github.com/temitopeolakanmi420-glitch/WISABI-ATM-ANALYSES/blob/main/Screenshot%202026-10-12%20231632.png)
 * **Hourly Trends & Location Performance**: Tracks how transaction counts fluctuate between 6:00 AM and 9:00 PM across different regions[cite: 3].
 * **State Utilization Breakdown**: Highlights regional share, showing Kano leading at 18.6% utilization and 8,819 active customers[cite: 3].
 * **Duration vs. Amount Scatter Plot**: Evaluates operational efficiency by mapping average transaction amounts against processing durations across states[cite: 3].
