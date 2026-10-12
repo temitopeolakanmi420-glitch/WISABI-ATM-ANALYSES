@@ -43,7 +43,9 @@ Managing an ATM network efficiently requires tracking cash flow, customer behavi
 ### Page 1: ATM Operational & Geographic Analysis
 This page focuses on spatial distribution, hourly traffic patterns, and state-level performance[cite: 3].
 
-![Page 1 Overview](screenshots/Screenshot%202026-10-12%20231632.png)[cite: 3]
+!### Page 1: ATM Operational & Geographic Analysis
+[![Page 1 Overview](screenshots/Screenshot%202026-10-12%20231632.png)](YOUR_PUBLISH_TO_WEB_URL_HERE)
+
 
 * **Hourly Trends & Location Performance**: Tracks how transaction counts fluctuate between 6:00 AM and 9:00 PM across different regions[cite: 3].
 * **State Utilization Breakdown**: Highlights regional share, showing Kano leading at 18.6% utilization and 8,819 active customers[cite: 3].
@@ -55,7 +57,9 @@ This page focuses on spatial distribution, hourly traffic patterns, and state-le
 ### Page 2: Customer Demographics & Behavior Analysis
 This page explores customer segments, age brackets, and transaction behaviors[cite: 4].
 
-![Page 2 Overview](screenshots/Screenshot%202026-10-12%20231530.png)[cite: 4]
+### Page 2: Customer Demographics & Behavior Analysis
+[![Page 2 Overview](screenshots/Screenshot%202026-10-12%20231530.png)](YOUR_PUBLISH_TO_WEB_URL_HERE)
+
 
 * **Transaction Type Share**: Highlights that **Withdrawals (55.5% / 1.19M)** and **Transfers (22.2% / 476K)** make up the vast majority of activities, alongside Deposits and Balance Inquiries[cite: 4].
 * **Age Group Distribution**: Shows peak transaction frequencies concentrated among customers aged **16–35**[cite: 4].
